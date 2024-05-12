@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductCatelog.API.Test", "ProductCatelog.API.Test\ProductCatelog.API.Test.csproj", "{B565DD80-FBC4-443D-AA9E-359E2DC4AB26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductCatelog.API", "ProductCatelog.API\ProductCatelog.API.csproj", "{6453A276-6DE5-42E2-96A2-17FDE236BCEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B565DD80-FBC4-443D-AA9E-359E2DC4AB26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B565DD80-FBC4-443D-AA9E-359E2DC4AB26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B565DD80-FBC4-443D-AA9E-359E2DC4AB26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B565DD80-FBC4-443D-AA9E-359E2DC4AB26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6453A276-6DE5-42E2-96A2-17FDE236BCEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6453A276-6DE5-42E2-96A2-17FDE236BCEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6453A276-6DE5-42E2-96A2-17FDE236BCEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6453A276-6DE5-42E2-96A2-17FDE236BCEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83C83B3C-B534-4134-A32B-907854E8738B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MyRepository\\XUnitTestProject\\ProductCatelog.API.Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B565DD80-FBC4-443D-AA9E-359E2DC4AB26}|ProductCatelog.API.Test\\ProductCatelog.API.Test.csproj|c:\\myrepository\\xunittestproject\\productcatelog.api.test\\productcatelog.api.test\\createspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B565DD80-FBC4-443D-AA9E-359E2DC4AB26}|ProductCatelog.API.Test\\ProductCatelog.API.Test.csproj|solutionrelative:productcatelog.api.test\\createspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6453A276-6DE5-42E2-96A2-17FDE236BCEF}|ProductCatelog.API\\ProductCatelog.API.csproj|c:\\myrepository\\xunittestproject\\productcatelog.api.test\\productcatelog.api\\productcatelogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6453A276-6DE5-42E2-96A2-17FDE236BCEF}|ProductCatelog.API\\ProductCatelog.API.csproj|solutionrelative:productcatelog.api\\productcatelogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6453A276-6DE5-42E2-96A2-17FDE236BCEF}|ProductCatelog.API\\ProductCatelog.API.csproj|c:\\myrepository\\xunittestproject\\productcatelog.api.test\\productcatelog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6453A276-6DE5-42E2-96A2-17FDE236BCEF}|ProductCatelog.API\\ProductCatelog.API.csproj|solutionrelative:productcatelog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B565DD80-FBC4-443D-AA9E-359E2DC4AB26}|ProductCatelog.API.Test\\ProductCatelog.API.Test.csproj|c:\\myrepository\\xunittestproject\\productcatelog.api.test\\productcatelog.api.test\\productcatelog.api.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B565DD80-FBC4-443D-AA9E-359E2DC4AB26}|ProductCatelog.API.Test\\ProductCatelog.API.Test.csproj|solutionrelative:productcatelog.api.test\\productcatelog.api.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B565DD80-FBC4-443D-AA9E-359E2DC4AB26}|ProductCatelog.API.Test\\ProductCatelog.API.Test.csproj|c:\\myrepository\\xunittestproject\\productcatelog.api.test\\productcatelog.api.test\\productcatelogapifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B565DD80-FBC4-443D-AA9E-359E2DC4AB26}|ProductCatelog.API.Test\\ProductCatelog.API.Test.csproj|solutionrelative:productcatelog.api.test\\productcatelogapifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductCatelog.API.Test.csproj",
+              "DocumentMoniker": "C:\\MyRepository\\XUnitTestProject\\ProductCatelog.API.Test\\ProductCatelog.API.Test\\ProductCatelog.API.Test.csproj",
+              "RelativeDocumentMoniker": "ProductCatelog.API.Test\\ProductCatelog.API.Test.csproj",
+              "ToolTip": "C:\\MyRepository\\XUnitTestProject\\ProductCatelog.API.Test\\ProductCatelog.API.Test\\ProductCatelog.API.Test.csproj",
+              "RelativeToolTip": "ProductCatelog.API.Test\\ProductCatelog.API.Test.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-11T16:52:02.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductCatelogApiFactory.cs",
+              "DocumentMoniker": "C:\\MyRepository\\XUnitTestProject\\ProductCatelog.API.Test\\ProductCatelog.API.Test\\ProductCatelogApiFactory.cs",
+              "RelativeDocumentMoniker": "ProductCatelog.API.Test\\ProductCatelogApiFactory.cs",
+              "ToolTip": "C:\\MyRepository\\XUnitTestProject\\ProductCatelog.API.Test\\ProductCatelog.API.Test\\ProductCatelogApiFactory.cs",
+              "RelativeToolTip": "ProductCatelog.API.Test\\ProductCatelogApiFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T16:51:10.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductCatelogDbContext.cs",
+              "DocumentMoniker": "C:\\MyRepository\\XUnitTestProject\\ProductCatelog.API.Test\\ProductCatelog.API\\ProductCatelogDbContext.cs",
+              "RelativeDocumentMoniker": "ProductCatelog.API\\ProductCatelogDbContext.cs",
+              "ToolTip": "C:\\MyRepository\\XUnitTestProject\\ProductCatelog.API.Test\\ProductCatelog.API\\ProductCatelogDbContext.cs",
+              "RelativeToolTip": "ProductCatelog.API\\ProductCatelogDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:34:26.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MyRepository\\XUnitTestProject\\ProductCatelog.API.Test\\ProductCatelog.API\\Program.cs",
+              "RelativeDocumentMoniker": "ProductCatelog.API\\Program.cs",
+              "ToolTip": "C:\\MyRepository\\XUnitTestProject\\ProductCatelog.API.Test\\ProductCatelog.API\\Program.cs",
+              "RelativeToolTip": "ProductCatelog.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:23:05.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateSpecification.cs",
+              "DocumentMoniker": "C:\\MyRepository\\XUnitTestProject\\ProductCatelog.API.Test\\ProductCatelog.API.Test\\CreateSpecification.cs",
+              "RelativeDocumentMoniker": "ProductCatelog.API.Test\\CreateSpecification.cs",
+              "ToolTip": "C:\\MyRepository\\XUnitTestProject\\ProductCatelog.API.Test\\ProductCatelog.API.Test\\CreateSpecification.cs",
+              "RelativeToolTip": "ProductCatelog.API.Test\\CreateSpecification.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwDsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:08:52.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
